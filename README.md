@@ -1,4 +1,3 @@
-# Stable-Diffusion-Image-Generator
 # AI Image Generation using Stable Diffusion
 
 An AI-powered image generation project built with PyTorch and Hugging Face's `diffusers` library using the `dreamlike-art/dreamlike-photoreal-2.0` model.
