@@ -15,3 +15,9 @@ An AI-powered image generation project built with PyTorch and Hugging Face's `di
 1. Install required dependencies:
    ```bash
    pip install -r requirements.txt
+
+Bash
+python main.py
+
+Model Name: dreamlike-art/dreamlike-photoreal-2.0
+
