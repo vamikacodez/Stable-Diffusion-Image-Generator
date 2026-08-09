@@ -1,0 +1,7 @@
+Plaintext
+
+torch
+diffusers
+transformers
+accelerate
+matplotlib
