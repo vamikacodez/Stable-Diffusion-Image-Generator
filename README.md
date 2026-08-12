@@ -21,3 +21,19 @@ python main.py
 
 Model Name: dreamlike-art/dreamlike-photoreal-2.0
 
+## Sample Outputs
+
+### Example 1
+**Prompt:** *"evening scene with waterfall with clear water which is flowing in a stream with small fishes and mini pebbles"*
+
+![Sample Output 1a](sample_1a.png)
+![Sample Output 1b](sample_1b.png)
+
+---
+
+### Example 2
+**Prompt:** *"a futuristic cyberpunk city at night under glowing neon lights and rain"*
+
+![Sample Output 2](sample_2.jpg)
+![Sample Output 2](sample_2.jpg)
+
