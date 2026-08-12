@@ -35,6 +35,5 @@ Model Name: dreamlike-art/dreamlike-photoreal-2.0
 ![Sample Output 2a](sample_2a.png)
 ![Sample Output 2b](sample_2b.png)
 
----
 ![Sample Output 2](sample_2.jpg)
 
