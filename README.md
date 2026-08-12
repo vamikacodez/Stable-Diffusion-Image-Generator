@@ -4,7 +4,7 @@ An AI-powered image generation project built with PyTorch and Hugging Face's `di
 
 ## Features
 * Generates high-quality photorealistic images from textual descriptions.
-* Saves generated images locally as `.jpg` files.
+* Saves generated images locally as `.png` files.
 * Displays output visualizations directly using `matplotlib`.
 
 ## Prerequisites
