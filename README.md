@@ -29,11 +29,12 @@ Model Name: dreamlike-art/dreamlike-photoreal-2.0
 ![Sample Output 1a](sample_1a.png)
 ![Sample Output 1b](sample_1b.png)
 
----
-
 ### Example 2
 **Prompt:** *"a futuristic cyberpunk city at night under glowing neon lights and rain"*
 
-![Sample Output 2](sample_2.jpg)
+![Sample Output 2a](sample_2a.png)
+![Sample Output 2b](sample_2b.png)
+
+---
 ![Sample Output 2](sample_2.jpg)
 
