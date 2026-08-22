@@ -33,7 +33,7 @@ for i, image in enumerate(images):
     image_path = f'picture_{i}.jpg'
     image.save(image_path)
 
-    #load and display the image using matplotlib 
+    #load and display the image using matplotlib open source library 
     img = mping.imread(image_path)
     plt.imshow(img)
     plt.title(f'image{i}')
